@@ -1,0 +1,27 @@
+{
+  "name": "console-adventure",
+  "version": "1.0.0",
+  "description": "A simple multiplayer console adventure where a group (\"party\") needs to find their way through an intricate maze of dungeons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Working!"
+  },
+  "keywords": [
+    "game",
+    "console",
+    "multiplayer-game",
+    "multiplayer",
+    "ui",
+    "party",
+    "adventure"
+  ],
+  "author": "Jim Ke",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.3",
+    "express.js": "^1.0.0",
+    "mongoose": "^5.11.16",
+    "uuid": "^8.3.2",
+    "winston": "^3.3.3"
+  }
+}
